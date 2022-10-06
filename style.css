@@ -1,0 +1,19 @@
+div{
+    padding-top: 15rem;
+    text-align: center;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+}
+button{
+    text-align: center;
+    font-size: 2.2rem;
+    border-radius: 5px;
+    background-color: rgba(28, 34, 43, 0.192);
+    border-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+    text-decoration: underline;
+}
